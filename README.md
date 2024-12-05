@@ -35,8 +35,6 @@
     <a href="https://www.coursera.org/account/accomplishments/verify/QBN6RELPA6GT" style="color:black; text-decoration:none;">Basic Recommender Systems</a><br>
     <br>  
     <div><strong>Management/Leadership</strong></div>
-    <a href="https://coursera.org/share/aa34241f7eb0ef713d8dd872f1b05bf0" style="color:black; text-decoration:none;">Agile Leadership Professional Certificate</a><br>
-    <a href="https://coursera.org/share/ec6e69d4abfb2e84e9c3a3a444ec6f40" style="color:black; text-decoration:none;">Negotiation: Strategies and Skills</a> <br>
-    <a href="https://coursera.org/share/7b209eac8ebd57fbf9b1887fdce9c149" style="color:black; text-decoration:none;">Strategic Management</a>
-
+    <a href="https://www.coursera.org/account/accomplishments/verify/8AGGJ7PRCLN9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course" style="color:black; text-decoration:none;">Managing Project Risks and Changes</a><br>
+    <a href="https://www.coursera.org/account/accomplishments/verify/BG5QGURQK5SK" style="color:black; text-decoration:none;">How to Manage a Remote Team</a> <br>
 </div>
