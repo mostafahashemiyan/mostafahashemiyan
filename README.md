@@ -27,7 +27,7 @@
 <div align="center">
     <div><strong>Machine Learning</strong></div>
     <a href="https://www.coursera.org/account/accomplishments/verify/WH9L6FVYL9YR" style="color:black; text-decoration:none;">
-      Machine Learning</a><br>
+      Introduction to Machine Learning</a><br>
     <br>
     <div><strong>AI/ML</strong></div>
     <a href="https://www.coursera.org/account/accomplishments/verify/C6545NE7WEV4" style="color:black; text-decoration:none; font-weight:bold;">Generative AI in Education</a><br>
