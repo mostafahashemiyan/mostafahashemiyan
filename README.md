@@ -15,8 +15,8 @@
 <h3 align="center"> I am skilled in </h3>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">  
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,matplotlib&theme=light" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch&theme=light" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,matplotlib,javascript&theme=light" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch.python&theme=light" /><br>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pandas,numpy,scipy&theme=light" /><br>
 <!--     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,py,cpp,vmwareworkstation,docker,aws,jenkins,ansible,nix,linux,bash,cuda,huggingface,tensorflow,pytorch,sklearn,pandas,numpy,scipy,matplotlib&theme=light" /><br> -->
   </a>
