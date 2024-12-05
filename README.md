@@ -27,14 +27,12 @@
 <div align="center">
     <div><strong>Machine Learning</strong></div>
     <a href="https://www.coursera.org/account/accomplishments/verify/WH9L6FVYL9YR" style="color:black; text-decoration:none;">
-      Machine Learning I</a><br>
-    <br>
-    <div><strong>Dev</strong></div>
-    <a href="https://www.coursera.org/account/accomplishments/verify/C6545NE7WEV4" style="color:black; text-decoration:none; font-weight:bold;">Generative AI in Education</a><br>
-    <a href="https://coursera.org/share/ac420561d38e9ebc8bbbd53f321282f8" style="color:black; text-decoration:none; font-weight:bold;">Google IT Automation with Python Professional Certificate</a><br>
+      Machine Learning</a><br>
     <br>
     <div><strong>AI/ML</strong></div>
-    <a href="https://coursera.org/share/3239c6a928080da767eeeca3a10fac93" style="color:black; text-decoration:none;">Neural Networks and Deep Learning</a><br>
+    <a href="https://www.coursera.org/account/accomplishments/verify/C6545NE7WEV4" style="color:black; text-decoration:none; font-weight:bold;">Generative AI in Education</a><br>
+    <a href="https://www.coursera.org/account/accomplishments/verify/N4CSXUZX9FCL" style="color:black; text-decoration:none; font-weight:bold;">Advanced Recommender Systems</a><br>
+    <a href="https://www.coursera.org/account/accomplishments/verify/QBN6RELPA6GT" style="color:black; text-decoration:none;">Basic Recommender Systems</a><br>
     <br>  
     <div><strong>Management/Leadership</strong></div>
     <a href="https://coursera.org/share/aa34241f7eb0ef713d8dd872f1b05bf0" style="color:black; text-decoration:none;">Agile Leadership Professional Certificate</a><br>
