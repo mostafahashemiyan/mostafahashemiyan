@@ -5,8 +5,8 @@
   <div>IoT & Artificial Intelligence  intern at <strong>Haier Europe </strong> in Italy, Milan</div>
   <div>student of a master's degree in Telecommunication Engineering from <strong>Politecnic University of Milan</strong>, Italy</div>
   <div>
-    <a href="(https://www.linkedin.com/in/mostafa-hashemiyan-6182a1182/)">LinkedIn</a> | 
-    <a href="mailto:mostafa.hashemiyan@mail.polimi.it">mostafa.hasheiyan@mail.polimi.it</a>
+    <a href="https://www.linkedin.com/in/mostafa-hashemiyan-6182a1182/">LinkedIn</a> | 
+    <a href="mailto:mostafa.hashemiyan@mail.polimi.it">mostafa.hashemiyan@mail.polimi.it</a>
   </div>
 </div>
 <br>
