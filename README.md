@@ -27,7 +27,7 @@
 <div align="center">
     <div><strong>Machine Learning</strong></div>
     <a href="https://www.coursera.org/account/accomplishments/verify/WH9L6FVYL9YR" style="color:black; text-decoration:none;">
-      Cryptography I</a><br>
+      Machine Learning I</a><br>
     <br>
     <div><strong>Dev</strong></div>
     <a href="https://coursera.org/share/50263129b1a89bf1ef9a4942849dc313" style="color:black; text-decoration:none; font-weight:bold;">MLOps | Machine Learning Operations Professional Certificate</a><br>
