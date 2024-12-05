@@ -30,7 +30,7 @@
       Machine Learning I</a><br>
     <br>
     <div><strong>Dev</strong></div>
-    <a href="https://coursera.org/share/50263129b1a89bf1ef9a4942849dc313" style="color:black; text-decoration:none; font-weight:bold;">MLOps | Machine Learning Operations Professional Certificate</a><br>
+    <a href="https://www.coursera.org/account/accomplishments/verify/C6545NE7WEV4" style="color:black; text-decoration:none; font-weight:bold;">Generative AI in Education</a><br>
     <a href="https://coursera.org/share/ac420561d38e9ebc8bbbd53f321282f8" style="color:black; text-decoration:none; font-weight:bold;">Google IT Automation with Python Professional Certificate</a><br>
     <br>
     <div><strong>AI/ML</strong></div>
