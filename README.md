@@ -25,8 +25,9 @@
 <!-- Certificates -->
 <h3 align="center"> Some of my certificates </h3>
 <div align="center">
-    <div><strong>Security</strong></div>
-    <a href="https://coursera.org/share/368cc3df8047791e0c2b27162d8702b4" style="color:black; text-decoration:none;">Cryptography I</a><br>
+    <div><strong>Machine Learning</strong></div>
+    <a href="https://www.coursera.org/account/accomplishments/verify/WH9L6FVYL9YR" style="color:black; text-decoration:none;">
+      Cryptography I</a><br>
     <br>
     <div><strong>Dev</strong></div>
     <a href="https://coursera.org/share/50263129b1a89bf1ef9a4942849dc313" style="color:black; text-decoration:none; font-weight:bold;">MLOps | Machine Learning Operations Professional Certificate</a><br>
