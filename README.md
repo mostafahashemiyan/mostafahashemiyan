@@ -29,8 +29,11 @@
     <a href="https://www.coursera.org/account/accomplishments/verify/WH9L6FVYL9YR" style="color:black; text-decoration:none;">
       Introduction to Machine Learning</a><br>
     <br>
+  <a href="https://www.coursera.org/account/accomplishments/verify/WH9L6FVYL9YR" style="color:black; text-decoration:none;">
+     Getting started with TensorFlow 2</a><br>
+    <br>
     <div><strong>AI/ML</strong></div>
-    <a href="https://www.coursera.org/account/accomplishments/verify/C6545NE7WEV4" style="color:black; text-decoration:none; font-weight:bold;">Generative AI in Education</a><br>
+    <a href="https://www.coursera.org/account/accomplishments/verify/0XGZ2E8C1U1Q" style="color:black; text-decoration:none; font-weight:bold;">Generative AI in Education</a><br>
     <a href="https://www.coursera.org/account/accomplishments/verify/N4CSXUZX9FCL" style="color:black; text-decoration:none; font-weight:bold;">Advanced Recommender Systems</a><br>
     <a href="https://www.coursera.org/account/accomplishments/verify/QBN6RELPA6GT" style="color:black; text-decoration:none;">Basic Recommender Systems</a><br>
     <br>  
