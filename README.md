@@ -1,43 +1,87 @@
 <!-- Intro -->
 <div align="center">
-  <h2>Hi My name is <b>Mostafa</b></h2>
-  <h3>I am a software engineer with one year of experience, skilled in machine learning using Python and frameworks</h3>
-  <div>IoT & Artificial Intelligence  intern at <strong>Haier Europe </strong> in Italy, Milan</div>
-  <div>student of a master's degree in Telecommunication Engineering from <strong>Politecnic University of Milan</strong>, Italy</div>
+  <h2>Hi, my name is <b>Mostafa</b> 👋</h2>
+  <h3>
+    Software Engineer with 1+ year of experience, specialized in Machine Learning, 
+    Large Language Models, and Agentic AI systems
+  </h3>
+
+  <div>
+    <strong>Agentic AI Specialist</strong> at <strong>HRM Group</strong>
+  </div>
+
+  <div>
+    IoT & Artificial Intelligence Intern at <strong>Haier Europe</strong> — Milan, Italy
+  </div>
+
+  <div>
+    MSc student in <strong>Telecommunication Engineering</strong> at 
+    <strong>Politecnico di Milano</strong>, Italy
+  </div>
+
   <div>
     <a href="https://www.linkedin.com/in/mostafa-hashemiyan-6182a1182/">LinkedIn</a> | 
     <a href="mailto:mostafa.hashemiyan@mail.polimi.it">mostafa.hashemiyan@mail.polimi.it</a>
   </div>
 </div>
+
 <br>
+
 <!-- Skill Icons -->
 <!-- https://github.com/LelouchFR/skill-icons -->
-<h3 align="center"> I am skilled in </h3>
+<h3 align="center">💡 Technical Skills</h3>
+
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">  
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,matplotlib,javascript&theme=light" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,python&theme=light" /><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pandas,numpy,scipy&theme=light" /><br>
-<!--     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,py,cpp,vmwareworkstation,docker,aws,jenkins,ansible,nix,linux,bash,cuda,huggingface,tensorflow,pytorch,sklearn,pandas,numpy,scipy,matplotlib&theme=light" /><br> -->
+
+    <!-- Core Programming & OS -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,linux,bash&theme=light" /><br>
+
+    <!-- AI / ML -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,scipy,matplotlib&theme=light" /><br>
+
+    <!-- Agentic AI / LLM Stack -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface,openai,fastapi,docker&theme=light" /><br>
+
   </a>
 </p>
 
+<br>
+
 <!-- Certificates -->
-<h3 align="center"> Some of my certificates </h3>
+<h3 align="center">📜 Certifications</h3>
+
 <div align="center">
-    <div><strong>Machine Learning</strong></div>
-    <a href="https://www.coursera.org/account/accomplishments/verify/WH9L6FVYL9YR" style="color:black; text-decoration:none;">
-      Introduction to Machine Learning</a><br>
-    <br>
-  <a href="https://www.coursera.org/account/accomplishments/verify/0XGZ2E8C1U1Q" style="color:black; text-decoration:none;">
-     Getting started with TensorFlow 2</a><br>
-    <br>
-    <div><strong>AI/ML</strong></div>
-    <a href="https://www.coursera.org/account/accomplishments/verify/0XGZ2E8C1U1Q" style="color:black; text-decoration:none; font-weight:bold;">Generative AI in Education</a><br>
-    <a href="https://www.coursera.org/account/accomplishments/verify/N4CSXUZX9FCL" style="color:black; text-decoration:none; font-weight:bold;">Advanced Recommender Systems</a><br>
-    <a href="https://www.coursera.org/account/accomplishments/verify/QBN6RELPA6GT" style="color:black; text-decoration:none;">Basic Recommender Systems</a><br>
-    <br>  
-    <div><strong>Management/Leadership</strong></div>
-    <a href="https://www.coursera.org/account/accomplishments/verify/8AGGJ7PRCLN9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course" style="color:black; text-decoration:none;">Managing Project Risks and Changes</a><br>
-    <a href="https://www.coursera.org/account/accomplishments/verify/BG5QGURQK5SK" style="color:black; text-decoration:none;">How to Manage a Remote Team</a> <br>
+
+  <div><strong>Machine Learning</strong></div>
+  <a href="https://www.coursera.org/account/accomplishments/verify/WH9L6FVYL9YR">
+    Introduction to Machine Learning
+  </a><br><br>
+
+  <a href="https://www.coursera.org/account/accomplishments/verify/0XGZ2E8C1U1Q">
+    Getting Started with TensorFlow 2
+  </a><br><br>
+
+  <div><strong>AI / Generative AI</strong></div>
+  <a href="https://www.coursera.org/account/accomplishments/verify/0XGZ2E8C1U1Q">
+    Generative AI in Education
+  </a><br>
+
+  <a href="https://www.coursera.org/account/accomplishments/verify/N4CSXUZX9FCL">
+    Advanced Recommender Systems
+  </a><br>
+
+  <a href="https://www.coursera.org/account/accomplishments/verify/QBN6RELPA6GT">
+    Basic Recommender Systems
+  </a><br><br>
+
+  <div><strong>Management & Leadership</strong></div>
+  <a href="https://www.coursera.org/account/accomplishments/verify/8AGGJ7PRCLN9">
+    Managing Project Risks and Changes
+  </a><br>
+
+  <a href="https://www.coursera.org/account/accomplishments/verify/BG5QGURQK5SK">
+    How to Manage a Remote Team
+  </a>
+
 </div>
