@@ -23,7 +23,7 @@
     <a href="https://www.linkedin.com/in/mostafa-hashemiyan-6182a1182/">LinkedIn</a> | 
     <a href="mailto:mostafa.hashemiyan@mail.polimi.it">mostafa.hashemiyan@mail.polimi.it</a>
   </div>
-</div>
+
 
 <br>
   <div>
