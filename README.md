@@ -19,46 +19,51 @@
     <strong>Politecnico di Milano</strong>, Italy
   </div>
 
+  <br>
+
   <div>
     <a href="https://www.linkedin.com/in/mostafa-hashemiyan-6182a1182/">LinkedIn</a> | 
     <a href="mailto:mostafa.hashemiyan@mail.polimi.it">mostafa.hashemiyan@mail.polimi.it</a>
   </div>
 
+  <br>
 
-<br>
   <div>
-    If you want to keep in touch with me and have a conversation with me click on the link below
-     <a href="https://huggingface.co/spaces/hashemiyanmostafa/MychatBot">Mychatbot</a> 
+    If you want to keep in touch with me and have a conversation with me click below 👇  
+    <br><br>
+    <a href="https://huggingface.co/spaces/hashemiyanmostafa/MychatBot">
+      🤖 My Chatbot
+    </a> 
   </div>
+</div>
 
+---
 
-<!-- Skill Icons -->
-<!-- https://github.com/LelouchFR/skill-icons -->
 <h3 align="center">💡 Technical Skills</h3>
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app">  
+  
+  <!-- Core Programming -->
+  <img src="https://skillicons.dev/icons?i=python,javascript,linux,bash&perline=8" />
+  <br><br>
 
-    <!-- Core Programming & OS -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,linux,bash&theme=light" /><br>
+  <!-- AI / ML -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,scipy,matplotlib&perline=8" />
+  <br><br>
 
-    <!-- AI / ML -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,scipy,matplotlib&theme=light" /><br>
+  <!-- Agentic AI / LLM Stack -->
+  <img src="https://skillicons.dev/icons?i=langchain,huggingface,fastapi,docker&perline=8" />
 
-    <!-- Agentic AI / LLM Stack -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface,openai,fastapi,docker&theme=light" /><br>
-
-  </a>
 </p>
 
-<br>
+---
 
-<!-- Certificates -->
 <h3 align="center">📜 Certifications</h3>
 
 <div align="center">
 
-  <div><strong>Machine Learning</strong></div>
+  <h4>Machine Learning</h4>
+
   <a href="https://www.coursera.org/account/accomplishments/verify/WH9L6FVYL9YR">
     Introduction to Machine Learning
   </a><br><br>
@@ -67,7 +72,8 @@
     Getting Started with TensorFlow 2
   </a><br><br>
 
-  <div><strong>AI / Generative AI</strong></div>
+  <h4>AI / Generative AI</h4>
+
   <a href="https://www.coursera.org/account/accomplishments/verify/0XGZ2E8C1U1Q">
     Generative AI in Education
   </a><br>
@@ -80,7 +86,8 @@
     Basic Recommender Systems
   </a><br><br>
 
-  <div><strong>Management & Leadership</strong></div>
+  <h4>Management & Leadership</h4>
+
   <a href="https://www.coursera.org/account/accomplishments/verify/8AGGJ7PRCLN9">
     Managing Project Risks and Changes
   </a><br>
