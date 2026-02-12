@@ -59,27 +59,21 @@
     <a href="https://www.udemy.com/certificate/UC-5877e625-23c1-4d57-940a-f03d09c9da55/">
     AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents
   </a><br><br> 
-
-
   <h4>AI / Generative AI</h4>
 
   <a href="https://www.coursera.org/account/accomplishments/verify/0XGZ2E8C1U1Q">
     Generative AI in Education
   </a><br>
-
   <a href="https://www.coursera.org/account/accomplishments/verify/N4CSXUZX9FCL">
     Advanced Recommender Systems
   </a><br>
-
   <a href="https://www.coursera.org/account/accomplishments/verify/QBN6RELPA6GT">
     Basic Recommender Systems
   </a><br><br>
     <h4>Machine Learning</h4>
-
   <a href="https://www.coursera.org/account/accomplishments/verify/WH9L6FVYL9YR">
     Introduction to Machine Learning
   </a><br><br>
-
   <a href="https://www.coursera.org/account/accomplishments/verify/0XGZ2E8C1U1Q">
     Getting Started with TensorFlow 2
   </a><br><br>
