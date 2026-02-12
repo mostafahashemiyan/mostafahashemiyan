@@ -39,22 +39,18 @@
 
 ---
 
-<h3 align="center">💡 Technical Skills</h3>
-
-<div align="center">
-
-  <!-- Programming & Tools -->
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,git,linux,bash,nvidia&perline=6" />
-  <br><br>
-
-  <!-- AI / ML -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,scipy,matplotlib&perline=7" />
-  <br><br>
-
-  <!-- Agentic AI / LLM Stack -->
-  <img src="https://skillicons.dev/icons?i=langchain,huggingface,openai,fastapi,docker,redis,&perline=8" />
-
-</div>
+<!-- Skill Icons -->
+<!-- https://github.com/LelouchFR/skill-icons -->
+<h3 align="center"> I am skilled in </h3>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app">  
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,py,cpp,vmwareworkstation,docker&theme=dark" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,jenkins,ansible,nix,linux&theme=dark" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,cuda,huggingface,tensorflow,pytorch&theme=dark" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,pandas,numpy,scipy,matplotlib&theme=dark" /><br>
+<!--     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,py,cpp,vmwareworkstation,docker,aws,jenkins,ansible,nix,linux,bash,cuda,huggingface,tensorflow,pytorch,sklearn,pandas,numpy,scipy,matplotlib&theme=light" /><br> -->
+  </a>
+</p>
 
 <h3 align="center">📜 Certifications</h3>
 
