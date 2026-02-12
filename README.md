@@ -43,8 +43,8 @@
 
 <div align="center">
 
-  <!-- Core Programming -->
-  <img src="https://skillicons.dev/icons?i=python,javascript,linux,bash" />
+  <!-- Programming & Tools -->
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,git,linux,bash" />
   <br><br>
 
   <!-- AI / ML -->
