@@ -55,6 +55,10 @@
 <h3 align="center">📜 Certifications</h3>
 
 <div align="center">
+  <h4>Agentic AI</h4>
+    <a href="https://www.udemy.com/certificate/UC-5877e625-23c1-4d57-940a-f03d09c9da55/">
+    AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents
+  </a><br><br> 
 
   <h4>Machine Learning</h4>
 
