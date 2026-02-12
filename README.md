@@ -44,19 +44,17 @@
 <div align="center">
 
   <!-- Programming & Tools -->
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,git,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,git,linux,bash&perline=6" />
   <br><br>
 
   <!-- AI / ML -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,scipy,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,scipy,matplotlib&perline=7" />
   <br><br>
 
   <!-- Agentic AI / LLM Stack -->
-  <img src="https://skillicons.dev/icons?i=langchain,huggingface,openai,fastapi,docker,redis,postgres" />
+  <img src="https://skillicons.dev/icons?i=langchain,huggingface,openai,fastapi,docker,redis,postgres,nvidia&perline=8" />
 
 </div>
-
----
 
 <h3 align="center">📜 Certifications</h3>
 
