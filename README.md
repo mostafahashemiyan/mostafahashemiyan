@@ -60,15 +60,6 @@
     AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents
   </a><br><br> 
 
-  <h4>Machine Learning</h4>
-
-  <a href="https://www.coursera.org/account/accomplishments/verify/WH9L6FVYL9YR">
-    Introduction to Machine Learning
-  </a><br><br>
-
-  <a href="https://www.coursera.org/account/accomplishments/verify/0XGZ2E8C1U1Q">
-    Getting Started with TensorFlow 2
-  </a><br><br>
 
   <h4>AI / Generative AI</h4>
 
@@ -82,6 +73,15 @@
 
   <a href="https://www.coursera.org/account/accomplishments/verify/QBN6RELPA6GT">
     Basic Recommender Systems
+  </a><br><br>
+    <h4>Machine Learning</h4>
+
+  <a href="https://www.coursera.org/account/accomplishments/verify/WH9L6FVYL9YR">
+    Introduction to Machine Learning
+  </a><br><br>
+
+  <a href="https://www.coursera.org/account/accomplishments/verify/0XGZ2E8C1U1Q">
+    Getting Started with TensorFlow 2
   </a><br><br>
 
   <h4>Management & Leadership</h4>
