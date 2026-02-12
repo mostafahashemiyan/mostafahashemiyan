@@ -29,7 +29,7 @@
   <br>
 
   <div>
-    If you want to keep in touch with me and have a conversation with me click below 👇  
+    Connect & chat with my AI assistant 👇  
     <br><br>
     <a href="https://huggingface.co/spaces/hashemiyanmostafa/MychatBot">
       🤖 My Chatbot
@@ -41,20 +41,20 @@
 
 <h3 align="center">💡 Technical Skills</h3>
 
-<p align="center">
-  
+<div align="center">
+
   <!-- Core Programming -->
-  <img src="https://skillicons.dev/icons?i=python,javascript,linux,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,linux,bash" />
   <br><br>
 
   <!-- AI / ML -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,scipy,matplotlib&perline=8" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,scipy,matplotlib" />
   <br><br>
 
   <!-- Agentic AI / LLM Stack -->
-  <img src="https://skillicons.dev/icons?i=langchain,huggingface,fastapi,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=langchain,huggingface,openai,fastapi,docker,redis,postgres" />
 
-</p>
+</div>
 
 ---
 
