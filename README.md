@@ -44,7 +44,7 @@
 <div align="center">
 
   <!-- Programming & Tools -->
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,git,linux,bash&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,git,linux,bash,nvidia&perline=6" />
   <br><br>
 
   <!-- AI / ML -->
@@ -52,7 +52,7 @@
   <br><br>
 
   <!-- Agentic AI / LLM Stack -->
-  <img src="https://skillicons.dev/icons?i=langchain,huggingface,openai,fastapi,docker,redis,postgres,nvidia&perline=8" />
+  <img src="https://skillicons.dev/icons?i=langchain,huggingface,openai,fastapi,docker,redis,&perline=8" />
 
 </div>
 
