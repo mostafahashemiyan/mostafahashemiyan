@@ -14,7 +14,7 @@
   <a href="mailto:mostafa.hashemiyan@mail.polimi.it">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-    <a href="https://github.com/mostafahashemiyan/mostafahashemiyan_CV.github.io" target="_blank">
+    <a href="https://mostafahashemiyan.github.io/mostafahashemiyan_CV.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=Safari&logoColor=black"/>
   </a>
 </p>
