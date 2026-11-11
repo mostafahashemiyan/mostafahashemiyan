@@ -28,7 +28,7 @@
 ```python
 class MostafaHashemiyan:
     def __init__(self):
-        self.role = "Junior AI Engineer at HRM"
+        self.role = " AI Engineer at HRM"
         self.location = "Milan, Italy"
         self.education = (
             "MSc Telecommunications Engineering — Politecnico di Milano"
@@ -218,7 +218,7 @@ My recent work includes building specialized LLM agents, integrating open-source
 
 | Period | Role | Organization |
 |---|---|---|
-| **Nov 2025 – Present** | Junior AI Engineer | HRM |
+| **Nov 2025 – Present** |  AI Engineer | HRM |
 | **Sep 2024 – Sep 2025** | Data Analyst & Machine Learning Specialist — Thesis Intern | Haier Europe |
 
 ---
