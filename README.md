@@ -57,7 +57,7 @@ class MostafaHashemiyan:
         ]
 ```
 
-I am a **Junior AI Engineer** with hands-on experience developing agentic AI systems, multi-agent workflows, document-processing pipelines, backend APIs, and machine-learning applications.
+I am a ** AI Engineer** with hands-on experience developing agentic AI systems, multi-agent workflows, document-processing pipelines, backend APIs, and machine-learning applications.
 
 My recent work includes building specialized LLM agents, integrating open-source and proprietary models, creating structured JSON outputs, developing Streamlit interfaces, refactoring application code, and testing AI-enabled APIs. I am particularly interested in turning experimental AI capabilities into reliable and useful software products.
 
